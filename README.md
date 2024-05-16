@@ -2,9 +2,9 @@
 
 ### Education
 
-MS in Statistics – San Diego State Univ., Admitted in 03/2024 
-BS in Statistics -- Univ. of Cal., San Diego, 03/2024
-Data Analyst Bootcamp-AlexTheAnalyst, 05/2024
+- MS in Statistics – San Diego State Univ., Admitted in 03/2024 
+- BS in Statistics -- Univ. of Cal., San Diego, 03/2024
+- Data Analyst Bootcamp-AlexTheAnalyst, 05/2024
 
 ### Work Experience
 
