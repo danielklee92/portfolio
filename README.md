@@ -34,3 +34,12 @@
 - SQL (_May 2024_) - Organized and cleaned a data table by utilizing functions.
 - Excel (_May 2024_) - Created several visualizations into a dashboard from a data table.
 - Power BI (_May 2024_) - Created several visualizations into a dashboard from a data table.
+- Tableau (_Apr 2024_) - Created two different kinds of charts that represent different aspects of a CSV format for a visualization.
+- R (_Jan 2023-Mar 2024_): Multiple projects with statistical analysis.
+- Python (_Jul-Dec 2023_): Multiple projects utilizing Pandas with GUI widgets, graphics, image processing. A computational
+project with google Colab and worked with Python such as Numpy and Machine Learning.
+- Data Science/Machine Learning (_Dec 2023_): Performed data science/machine learning projects using JupyterHub to
+utilize Python programming skills and datasets by the scientific method.
+- Java (_Aug - Dec 2022_): Search Engine project with UML OO design, class inheritance and polymorphism, exception handling, IO
+operations, GUI design with layouts and event handling.
+- C++ (_Aug - Dec 2022_): Multiple projects using string, vector, struct, IO operations, function design, etc.
