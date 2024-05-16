@@ -28,7 +28,7 @@
 - Find problems that arise and suggest improvements.
 - Design and conduct calibration tests.
 
-## Projects
+## [Projects](PROJECTS.md)
 
 - SAS (_May 2024_) - Generated several visualizations, utilizing SAS tasks, from a data table.
 - SQL (_May 2024_) - Organized and cleaned a data table by utilizing functions.
