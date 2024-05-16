@@ -1,12 +1,12 @@
 # Data Analyst/Scientist
 
-### Education
+## Education
 
 - MS in Statistics – San Diego State Univ., Admitted in 03/2024 
 - BS in Statistics -- Univ. of Cal., San Diego, 03/2024
 - Data Analyst Bootcamp - AlexTheAnalyst, 05/2024
 
-### Work Experience
+## Work Experience
 
 **Student Researcher - UC San Diego. Apr 2024 - Present**
 - Perform statistical research on Markov Chains under Professor Ery Arias-Castro.
@@ -28,7 +28,7 @@
 - Find problems that arise and suggest improvements.
 - Design and conduct calibration tests.
 
-### Projects
+## Projects
 
 - SAS (May 2024) - Generated several visualizations, utilizing SAS tasks, from a data table.
 - SQL (May 2024) - Organized and cleaned a data table by utilizing functions.
