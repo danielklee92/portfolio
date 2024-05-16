@@ -8,17 +8,17 @@
 
 ### Work Experience
 
-Student Researcher - UC San Diego. Apr 2024 - Present
+*Student Researcher - UC San Diego. Apr 2024 - Present
 - Perform statistical research on Markov Chains under Professor Ery Arias-Castro.
 - Write probability and statistics methodology for presentations every other week.
-Legislative Intern – County of San Diego. Jan 2024 – Apr 2024
+*Legislative Intern – County of San Diego. Jan 2024 – Apr 2024
 - Participating in varied activities and trainings
 - Handling mail and managing phone calls for constituent correspondence
 - Attends community outreach events on behalf of district 2 supervisor
 - Completing legislative and public relations tasks
 - Working with government agencies in research projects
 - Analyze community outreach data with Excel to study community behavior
-Research Assistant Intern -- Zense Life Inc. Jun 2020 – Sep 2022
+*Research Assistant Intern -- Zense Life Inc. Jun 2020 – Sep 2022
 - Analyze glucose sensor wire testing data using statistical tools.
 - Gather and process data from tests using Excel Macros, SAS and MATLAB
 - Collaborate with research associates to perform evaluations.
