@@ -28,7 +28,7 @@ Research Assistant Intern -- Zense Life Inc. Jun 2020 – Sep 2022
 
 ### Projects
 
-SAS (May 2024) - Generated several visualizations, utilizing SAS tasks, from a data table.
-SQL (May 2024) - Organized and cleaned a data table by utilizing functions.
-Excel (May 2024) - Created several visualizations into a dashboard from a data table.
-Power BI (May 2024) - Created several visualizations into a dashboard from a data table.
+- SAS (May 2024) - Generated several visualizations, utilizing SAS tasks, from a data table.
+- SQL (May 2024) - Organized and cleaned a data table by utilizing functions.
+- Excel (May 2024) - Created several visualizations into a dashboard from a data table.
+- Power BI (May 2024) - Created several visualizations into a dashboard from a data table.
