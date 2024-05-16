@@ -3,4 +3,4 @@ title: "Projects"
 permalink: /projects
 
 ## Python
-[BMI index](main.py)
+[BMI Calculator](BMI_calculator.py)
