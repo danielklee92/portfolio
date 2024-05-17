@@ -1,4 +1,5 @@
 ## Python
+**Personal:**
 - [BMI Calculator](BMI_project.ipynb)
 
 **DSC 10 Projects:**
